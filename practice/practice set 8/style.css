@@ -1,0 +1,34 @@
+
+body{
+    margin: 0%;
+    padding: 0%;
+    height: 864px;
+    width: 100%;
+    background-image: url("1140482.jpg");
+}
+
+.buttons{
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    
+}
+
+button{
+    height: 50px;
+    padding: 0 23px;
+    margin: auto;
+    color: rgb(0, 0, 0);
+    border-color: rgb(65, 65, 213);
+    background-color: rgb(255, 183, 0);
+    border-radius: 20px;
+}
+
+.present{
+    font-size: x-large;
+    color: rgb(246, 255, 0);
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}

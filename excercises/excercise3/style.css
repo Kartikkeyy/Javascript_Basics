@@ -1,0 +1,31 @@
+head{
+    width: 100%;
+    position: 100%;
+}
+
+body{
+    padding: 0%;
+    margin: auto;
+    background-image: url("bg.gif");
+    background-size: cover;
+}
+
+.Joke{
+    display: flex;
+    background-color: rgb(98, 98, 155);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 0 200pt;
+    margin: auto;
+}
+
+.output{
+  position: absolute;
+  top: 300px;
+  left: 400px;
+  margin: auto;
+  width: 50%;
+  border: 5px solid rgb(140, 230, 140);
+  background-color: antiquewhite;
+  padding: 10px;
+  text-align: center;
+}

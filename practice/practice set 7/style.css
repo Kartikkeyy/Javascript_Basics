@@ -1,0 +1,16 @@
+head,body{
+    height: 100%;
+    width: 100%;
+    margin: 0%;
+    padding: 0%;
+}
+
+nav{
+    display: flex;
+    background-color: rgb(213, 213, 213);
+}
+
+nav li{
+    list-style-type: none;
+    padding: 0 23px;
+}
